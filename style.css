@@ -103,19 +103,9 @@ body {
     min-height: 100vh;
 }
 
-.header {
-    background: rgba(255, 255, 255, 0.8);
-    backdrop-filter: blur(12px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-    padding: 16px 32px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.header-left {
-    display: flex;
-    align-items: center;
+.header-right{
+    margin-left:1280px;
+    margin-top:10px;
 }
 
 .menu-toggle {
